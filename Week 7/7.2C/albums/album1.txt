@@ -1,0 +1,30 @@
+Voicenotes
+Charlie Puth
+1
+13
+The Way I am
+sounds/00-the-way-i-am.mp3
+Attention
+sounds/01-attention.mp3
+LA Girls
+sounds/02-la-girls.mp3
+How Long
+sounds/03-how-long.mp3
+Done For Me
+sounds/04-done-for-me.mp3
+Patient
+sounds/05-patient.mp3
+If You Leave Me Now
+sounds/06-if-you-leave-me-now.mp3
+BOY
+sounds/07-boy.mp3
+Slow It Down
+sounds/08-slow-it-down.mp3
+Change
+sounds/09-change.mp3
+Somebody Told Me
+sounds/10-somebody-told-me.mp3
+Empty Cups
+sounds/11-empty-cups.mp3
+Through It Down
+sounds/12-through-it-down.mp3

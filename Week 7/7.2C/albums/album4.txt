@@ -1,0 +1,18 @@
+Sun City
+Khalid
+1
+7
+9.13
+sounds/00-913.mp3
+Vertigo
+sounds/01-vertigo.mp3
+Saturday Nights
+sounds/02-saturday-nights.mp3
+Salem's Interlude
+sounds/03-salems-interlude.mp3
+Motion
+sounds/04-motion.mp3
+Better
+sounds/05-better.mp3
+Sun City
+sounds/06-sun-city.mp3

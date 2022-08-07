@@ -1,0 +1,34 @@
+V
+Maroon 5
+1
+15
+Maps
+sounds/00-maps.mp3
+Animals
+sounds/01-animals.mp3
+It Was Always You
+sounds/02-it-was-always-you.mp3
+Unkiss Me
+sounds/03-unkiss-me.mp3
+Sugar
+sounds/04-sugar.mp3
+Leaving California
+sounds/05-leaving-california.mp3
+In Your Pocket
+sounds/06-in-your-pocket.mp3
+New Love
+sounds/07-new-love.mp3
+Coming Back For You
+sounds/08-coming-back-for-you.mp3
+Feelings
+sounds/09-feeling.mp3
+My Heart Is Open
+sounds/10-my-heart-is-open.mp3
+This Summers's Gonna Hurt
+sounds/11-this-summers-gonna-hurt.mp3
+Shoot Love
+sounds/12-shoot-love.mp3
+Sex and Candy
+sounds/13-sex-and-candy.mp3
+Lost Stars
+sounds/14-lost-stars.mp3
